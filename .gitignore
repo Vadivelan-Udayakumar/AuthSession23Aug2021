@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AuthSessionDemo
+/AuthSessionDemoAuthentication/bin/Debug/net5.0
+/AuthSessionDemoAuthentication/obj
+/AuthSessionDemoAuthorization/bin/Debug/net5.0
+/AuthSessionDemoAuthorization/obj
+/AuthSessionDemoAzureAdIntegration/bin/Debug/net5.0
+/AuthSessionDemoAzureAdIntegration/obj
+/AuthSessionDemoWebAPIWithCustomJwt/bin/Debug/net5.0
+/AuthSessionDemoWebAPIWithCustomJwt/obj
+/SampleJwtTokenGenerator/bin/Debug/net5.0
+/SampleJwtTokenGenerator/obj
